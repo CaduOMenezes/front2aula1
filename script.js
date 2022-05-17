@@ -10,9 +10,9 @@ function somar(array) {
         total += numeros[i];
     }
     return total;
-}
- // CADU VAI MANDAR NO DISCORD?
-
+};
+console.log("Teste Cadu:");
+console.log(somar(numeros));
 
 //Kevilyn:
 
@@ -25,8 +25,7 @@ for (let i = 0; i < array.length; i++) {
 console.log("Teste Kev:")
 console.log(sum);
 
-console.log("Teste Cadu:");
-console.log(somar(numeros));
+
 
 
 //Raphael:
